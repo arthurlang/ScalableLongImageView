@@ -1,0 +1,3 @@
+# ScalableLongImageView
+1、ZoomPhotoActivity Fresco加载可缩放的视图
+2、LongPhotoActivity 可循环滑动的长图和宽图
